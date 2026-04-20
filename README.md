@@ -1,12 +1,19 @@
-# Hola, soy Cristian Couto 👋
+<div align="center">
+  <img src=""
+ width="100%" />
+  
+  # Cristian Couto
+  ### Infraestructura IT | Ciencia de Datos e IA
+  *Transformando datos industriales en decisiones estratégicas*
+</div>
 
-### Infraestructura IT | Ciencia de Datos & IA
-**Argentina** 🇦🇷
+---
+### 👤 Sobre mí
 
 Soy un **Administrador IT Senior** con más de 10 años de experiencia gestionando infraestructura crítica en entornos industriales de alta complejidad. Actualmente, estoy expandiendo la frontera de la eficiencia operativa mediante la **Ciencia de Datos y la Inteligencia Artificial**, uniendo el mundo físico de la planta con el potencial del análisis predictivo.
 
 - 🔭 **Actualmente:** Liderando la infraestructura en **Solnik S.A.** para líneas de producción de Nokia, TV y Aire Acondicionado.
-- 🎓 **Educación:** Técnico Superior en Ciencia de Datos e IA (en curso, 2025).
+- 🎓 **Educación:** Técnico Superior en Ciencia de Datos e IA (Egresado 2025).
 - ⚡ **Enfoque:** Reducir el *Downtime* mediante automatización y optimización basada en datos.
 
 ---
@@ -24,8 +31,8 @@ Soy un **Administrador IT Senior** con más de 10 años de experiencia gestionan
 ---
 
 ### 📊 Estadísticas de GitHub
-![Estadísticas de Cristian](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=radical&hide_border=true)
+![Estadísticas de Cristian](https://github-readme-stats.vercel.app/api?username=c-couto&show_icons=true&theme=radical&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=c-couto&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -33,12 +40,13 @@ Soy un **Administrador IT Senior** con más de 10 años de experiencia gestionan
 * **Continuidad Operativa:** Gestión de infraestructura de misión crítica con respuesta inmediata ante incidentes en líneas Nokia.
 * **Modernización:** Implementación de estrategias de Backup & DR (Disaster Recovery) para asegurar la integridad de datos industriales.
 * **Visibilidad Técnica:** Diseño de planos detallados de racks y cableado estructurado, mejorando los tiempos de mantenimiento y escalabilidad.
-
+* **Creación de Chatbot para la empresa "EL DORADO SRL".
+* **Dashboard con Power Bi para "NEWSAN".
 ---
 
 ### 🤝 Conectemos
-- [LinkedIn](https://www.linkedin.com/in/TU_PERFIL_LINKEDIN)
-- 📧 [Tu Email si deseas ponerlo]
+- [LinkedIn](https://www.linkedin.com/in/cristian-couto-147090211)
+- 📧 [cristiancouto.emm@gmail.com]
 
 ---
 *“En la intersección entre los servidores y los datos es donde ocurre la verdadera optimización industrial.”*
