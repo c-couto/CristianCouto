@@ -1,7 +1,9 @@
-<div align="center">
-  <img src=""
- width="100%" />
-  
+![Banner de Cristian](banner_ccouto.jpg)
+
+<p align="center">
+  <img src="banner_ccouto.jpg" alt="Banner Cristian Couto" width="100%">
+</p>
+
   # Cristian Couto
   ### Infraestructura IT | Ciencia de Datos e IA
   *Transformando datos industriales en decisiones estratégicas*
