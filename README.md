@@ -2,8 +2,6 @@
   <img src="banner_ccouto.jpg" alt="Banner Cristian Couto" width="100%">
 </p>
 
-  # Cristian Couto
-  ### Infraestructura IT | Ciencia de Datos e IA
   *Transformando datos industriales en decisiones estratégicas*
 </div>
 
