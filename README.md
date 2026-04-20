@@ -1,5 +1,3 @@
-![Banner de Cristian](banner_ccouto.jpg)
-
 <p align="center">
   <img src="banner_ccouto.jpg" alt="Banner Cristian Couto" width="100%">
 </p>
