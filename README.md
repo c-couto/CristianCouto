@@ -8,7 +8,7 @@
 ---
 ### 👤 Sobre mí
 
-Soy un **Administrador IT Senior** con más de 10 años de experiencia gestionando infraestructura crítica en entornos industriales de alta complejidad. Actualmente, estoy expandiendo la frontera de la eficiencia operativa mediante la **Ciencia de Datos y la Inteligencia Artificial**, uniendo el mundo físico de la planta con el potencial del análisis predictivo.
+Soy un **Administrador IT Senior** con más de 5 años de experiencia gestionando infraestructura crítica en entornos industriales de alta complejidad. Actualmente, estoy expandiendo la frontera de la eficiencia operativa mediante la **Ciencia de Datos y la Inteligencia Artificial**, uniendo el mundo físico de la planta con el potencial del análisis predictivo.
 
 - 🔭 **Actualmente:** Liderando la infraestructura en **Solnik S.A.** para líneas de producción de Nokia, TV y Aire Acondicionado.
 - 🎓 **Educación:** Técnico Superior en Ciencia de Datos e IA (Egresado 2025).
