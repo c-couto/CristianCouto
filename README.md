@@ -10,9 +10,9 @@
 
 Soy un **Administrador IT Senior** con más de 5 años de experiencia gestionando infraestructura crítica en entornos industriales de alta complejidad. Actualmente, estoy expandiendo la frontera de la eficiencia operativa mediante la **Ciencia de Datos y la Inteligencia Artificial**, uniendo el mundo físico de la planta con el potencial del análisis predictivo.
 
-- 🔭 **Actualmente:** Liderando la infraestructura en **Solnik S.A.** para líneas de producción de Nokia, TV y Aire Acondicionado.
-- 🎓 **Educación:** Técnico Superior en Ciencia de Datos e IA (Egresado 2025).
-- ⚡ **Enfoque:** Reducir el *Downtime* mediante automatización y optimización basada en datos.
+- 🔭 **Actualmente:** Optimizando la infraestructura crítica y redes industriales para maximizar la eficiencia en planta.
+- 🎓 **Especialización:** Diplomatura en **Linux orientado a Ciberseguridad y Hacking Ético**, fortaleciendo la resiliencia de entornos servidores.
+- ⚡ **Enfoque:** Reducción drástica del *Downtime* mediante monitoreo avanzado, automatización y toma de decisiones basada en datos (Data-Driven).
 
 ---
 
@@ -21,7 +21,7 @@ Soy un **Administrador IT Senior** con más de 5 años de experiencia gestionand
 | Área | Tecnologías |
 | :--- | :--- |
 | **Data Science & IA** | Python, SQL, ETL, Modelos Predictivos, Análisis de Datos |
-| **Infraestructura** | Windows Server, Active Directory, VMware (ESXi, vCenter), Redes Fortinet/HP/Aruba |
+| **Seguridad & Linux** | Windows Server, Active Directory, VMware (ESXi, vCenter), Redes Fortinet/HP/Aruba |
 | **Resguardo & Storage** | Veeam Backup, ArcServe, Dell/Lenovo Servers, Storage IBM/QNAP |
 | **Diseño Técnico** | AutoCAD 2D, SketchUp, Visio (Planos de Infraestructura y Redes) |
 | **Soporte Industrial** | Scanners Honeywell, Impresoras SATO/Argox, CCTV IP (Hikvision/Dahua) |
